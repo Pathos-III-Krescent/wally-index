@@ -1,5 +1,6 @@
 {
     "api": "https://wally.pathos.gg",
+    "github_oauth_id": "Ov23li9ndeQj4KlUi9Q7",
     "fallback_registries": [
         "https://github.com/UpliftGames/wally-index"
     ]
